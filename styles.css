@@ -4,3 +4,6 @@ body{
 h1{
     color: rgb(0, 167, 167);
 }
+img{
+    scale: 0.7;
+}

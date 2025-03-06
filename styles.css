@@ -1,9 +1,20 @@
 body{
     background-color: rgb(255, 255, 255);
 }
-h1{
-    color: rgb(0, 167, 167);
+.fumo-box{
+    background-color: rgb(31, 187, 226);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
 }
-img{
-    scale: 0.7;
+.fumo-box img{
+    border-radius: 17px;
+    width: 250px;
+    
+}
+.fumo-boxes{
+    display: flex;
+    gap: 17px;
 }

@@ -1,7 +1,7 @@
 body{
     background-color: rgb(255, 255, 255);
 }
-.fumo-box{
+.fumo-box-shiroko{
     background-color: rgb(31, 187, 226);
     border-radius: 16px;
     padding: 8px;
@@ -9,7 +9,7 @@ body{
     text-align: center;
     width: 250px;
 }
-.fumo-box img{
+.fumo-box-shiroko img{
     border-radius: 17px;
     width: 250px;
     

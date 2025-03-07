@@ -9,15 +9,28 @@ body{
     border-radius: 16px;
     padding: 8px;
     color: #ffffff;
-    text-align: center;
-    width: 250px;
+    
+    
+    
 }
-.fumo-box-shiroko img{
+.fumo-boxes img{
     border-radius: 17px;
     width: 250px;
+    
+    
+}
+.fumo-box-serika{
+    background-color: rgb(226, 31, 89);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff;
+    
     
 }
 .fumo-boxes{
     display: flex;
     gap: 17px;
+    flex-wrap: wrap;
+    text-align: center;
+    
 }

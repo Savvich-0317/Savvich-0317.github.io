@@ -4,6 +4,14 @@
 body{
     background-color: rgb(255, 255, 255);
 }
+.Savvich-title img{
+    width: 125px;
+    
+}
+.Savvich-title{
+    display: flex;
+    gap: 17px;
+}
 .fumo-box-shiroko{
     background-color: rgb(31, 187, 226);
     border-radius: 16px;

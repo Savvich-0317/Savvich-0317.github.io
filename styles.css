@@ -44,3 +44,26 @@ body{
     text-align: center;
     
 }
+.about h3{
+    margin: 0px;
+}
+.about{
+    margin-top: 17px;
+    padding: 8px;
+    text-align: center;
+    width: 700px;
+    background-color: rgb(75, 199, 162);
+    border-radius: 16px;
+    color:#ffffff;
+    
+}
+.about article p{
+    margin-left: 17px;
+}
+.about article{
+    text-align: left;
+    color:black;
+    height: 135px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+}

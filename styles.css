@@ -44,15 +44,34 @@ body{
     color: #ffffff; 
 }
 .fumo-boxes-ftf{
+    
+    background-color: rgba(0, 255, 255, 0.425);
+    border-radius: 16px;
+    padding: 15px;
+}
+.fumo-boxes-aha{
+    
+    background-color: rgba(255, 0, 98, 0.425);
+    border-radius: 16px;
+    padding: 15px;
+}
+.fumo-box-kaede{
+    background-color: rgb(247, 51, 51);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff;
+}
+
+
+
+
+
+.forflex{
     display: flex;
     gap: 17px;
     flex-wrap: wrap;
     text-align: center;
-    background-color: aqua;
-    border-radius: 16px;
-    padding: 15px;
 }
-
 .fumo-boxes img{
     border-radius: 17px;
     width: 250px;
@@ -60,10 +79,7 @@ body{
     
     
 }
-
 .fumo-boxes{
-    gap: 17px;
-    flex-wrap: wrap;
-    text-align: center;
-    display: flex;
+    margin: 15px;
 }
+

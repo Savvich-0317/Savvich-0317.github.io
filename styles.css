@@ -18,10 +18,41 @@ body{
     border-radius: 16px;
     padding: 8px;
     color: #ffffff;
-    
-    
-    
 }
+.fumo-box-serika{
+    background-color: rgb(226, 31, 89);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff;
+}
+.fumo-box-hoshino{
+    background-color: rgb(255, 165, 192);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff; 
+}
+.fumo-box-nonomi{
+    background-color: rgb(125, 207, 132);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff; 
+}
+.fumo-box-ayane{
+    background-color: rgb(207, 190, 112);
+    border-radius: 16px;
+    padding: 8px;
+    color: #ffffff; 
+}
+.fumo-boxes-ftf{
+    display: flex;
+    gap: 17px;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 16px;
+    padding: 15px;
+}
+
 .fumo-boxes img{
     border-radius: 17px;
     width: 250px;
@@ -29,18 +60,10 @@ body{
     
     
 }
-.fumo-box-serika{
-    background-color: rgb(226, 31, 89);
-    border-radius: 16px;
-    padding: 8px;
-    color: #ffffff;
-    
-    
-}
+
 .fumo-boxes{
-    display: flex;
     gap: 17px;
     flex-wrap: wrap;
     text-align: center;
-    
+    display: flex;
 }

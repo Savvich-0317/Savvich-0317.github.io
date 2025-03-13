@@ -2,6 +2,7 @@
     font-family:Roboto;
 }
 .navigat{
+    display: flex;
     margin:auto;
 }
 body{

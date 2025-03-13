@@ -71,6 +71,7 @@ body{
     gap: 17px;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: center;
 }
 .fumo-boxes img{
     border-radius: 17px;

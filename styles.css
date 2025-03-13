@@ -64,7 +64,11 @@ body{
 
 
 
-
+.forflex img{
+    border-radius: 17px;
+    width: 250px;
+    height: 325px;
+}
 
 .forflex{
     display: flex;
@@ -72,15 +76,6 @@ body{
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-}
-.fumo-boxes img{
-    border-radius: 17px;
-    width: 250px;
-    height: 325px;
     
-    
-}
-.fumo-boxes{
-    margin: 15px;
 }
 

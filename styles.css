@@ -17,6 +17,12 @@ body{
     display: flex;
     gap: 17px;
 }
+.good{
+    color: rgb(0, 212, 18);
+}
+.bad{
+    color: red;
+}
 .fumo-box-shiroko{
     background-color: rgb(31, 187, 226);
     border-radius: 16px;
@@ -94,3 +100,11 @@ body{
     
 }
 
+.forfooter{
+    display: flex;
+    gap: 20px;
+}
+.forfooter img{
+    height: 60px;
+    width: auto;
+}

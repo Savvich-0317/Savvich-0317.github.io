@@ -26,6 +26,12 @@ body{
 .bad{
     color: red;
 }
+.ok{
+    color: yellow;
+}
+.extra{
+    color: purple;
+}
 .attention{
     justify-content: center;
     gap: 30px;
@@ -113,6 +119,12 @@ body{
 }
 .fumo-box-hinata{
     background-color: #E5D185;
+}
+.fumo-box-yoshimi{
+    background-color: #EEC893;
+}
+.fumo-box-sakurako{
+    background-color: #CDC4B5;
 }
 .forflex{
     display: flex;

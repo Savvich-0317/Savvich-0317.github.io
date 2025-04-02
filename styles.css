@@ -126,6 +126,27 @@ body{
 .fumo-box-sakurako{
     background-color: #CDC4B5;
 }
+
+.fumo-boxes-mss{
+    background-color: #73b1f0b9;
+    border-radius: 16px;
+    padding: 15px;
+}
+.fumo-box-toki{
+    background-color: #3ACBF7;
+}
+.fumo-box-karin{
+    background-color: #c0bd8b;
+}
+.fumo-box-asuna{
+    background-color: #CBBEB2;
+}
+.fumo-box-akane{
+    background-color: #74bed6;
+}
+.fumo-box-neru{
+    background-color: #F6B8B2;
+}
 .forflex{
     display: flex;
     gap: 17px;

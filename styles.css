@@ -132,6 +132,11 @@ body{
     border-radius: 16px;
     padding: 15px;
 }
+.boxorg-maid{
+    background-color: #459af0da;
+    border-radius: 16px;
+    padding: 15px;
+}
 .fumo-box-toki{
     background-color: #3ACBF7;
 }
@@ -146,6 +151,10 @@ body{
 }
 .fumo-box-neru{
     background-color: #F6B8B2;
+}
+
+.fumo-box-yuuka{
+    background-color: #5A4C7F;
 }
 .forflex{
     display: flex;

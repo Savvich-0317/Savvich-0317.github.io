@@ -7,6 +7,7 @@ html{
 .navigat{
     display: flex;
     margin:auto;
+    gap: 30px;
 }
 body{
     background-color: rgb(255, 255, 255);
@@ -183,6 +184,7 @@ body{
     display: flex;
     gap: 20px;
 }
+
 .forfooter img{
     height: 60px;
     width: auto;

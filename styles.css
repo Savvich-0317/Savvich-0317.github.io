@@ -190,10 +190,14 @@ body{
     width: auto;
 }
 .ascii{
-    display: none;
+    display: block;
 }
-@media(min-width:1000px){
+
+@media(max-width:1000px){
+    .forflex img{
+        height: 200px;
+    }
     .ascii{
-        display: block;
+        display: none;
     }
 }

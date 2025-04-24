@@ -166,6 +166,9 @@ body{
 .fumo-box-kirino{
     background-color: #866AE3;
 }
+.forflex img{
+    transition: 0.5s;
+}
 .forflex img:hover{
     transform: scale(0.9);
 }

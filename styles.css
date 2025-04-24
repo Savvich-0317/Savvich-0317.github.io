@@ -204,7 +204,7 @@ body{
         height: 200px;
     }
     .navigat{
-        gap: 10px;
+        display: none;
     }
     .ascii{
         display: none;

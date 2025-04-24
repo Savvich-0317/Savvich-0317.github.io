@@ -166,6 +166,9 @@ body{
 .fumo-box-kirino{
     background-color: #866AE3;
 }
+.forflex img:hover{
+    transform: scale(0.9);
+}
 .forflex{
     display: flex;
     gap: 17px;
@@ -196,6 +199,9 @@ body{
 @media(max-width:1000px){
     .forflex img{
         height: 200px;
+    }
+    .navigat{
+        gap: 10px;
     }
     .ascii{
         display: none;

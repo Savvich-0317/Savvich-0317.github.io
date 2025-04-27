@@ -10,6 +10,11 @@ html{
     margin:auto;
     gap: 30px;
 }
+.navigatf{
+    display: flex;
+    margin:auto;
+    gap: 30px;
+}
 body{
     background-color: rgb(255, 255, 255);
 }

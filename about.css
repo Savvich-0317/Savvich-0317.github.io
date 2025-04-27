@@ -4,11 +4,20 @@ html{
 *{
     font-family:Roboto;
 }
+.bad{
+    color: red;
+}
 .navigat{
     display: flex;
     margin:auto;
     gap: 30px;
 }
+.navigatf{
+    display: flex;
+    margin:auto;
+    gap: 30px;
+}
+
 body{
     background-color: rgb(255, 255, 255);
 }
@@ -23,10 +32,9 @@ body{
 }
 .forflex{
     display: flex;
-    gap: 17px;
+    gap: 75px;
     flex-wrap: wrap;
-    text-align: center;
-    justify-content: center;
+
     
     
 }
@@ -57,5 +65,18 @@ body{
     }
 }
 .for_padding{
-    padding: 35px;
+    padding-left: 35px;
+    padding-top: 5px;
+}
+.About{
+    background-color: rgb(240, 203, 155);
+    border-radius: 16px;
+}
+@media(max-width:1000px){
+    .forflex img{
+        height: 200px;
+    }
+    .navigat{
+        display: none;
+    }
 }

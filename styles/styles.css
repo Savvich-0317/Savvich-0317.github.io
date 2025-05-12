@@ -201,13 +201,23 @@ body{
     height: 60px;
     width: auto;
 }
+
 .ascii{
     display: block;
 }
 
+.sign{
+    justify-content: flex-end;
+    display: flex;
+
+}
+.sign img{
+    height: 125px;
+}
 @media(max-width:1000px){
+
     .forflex img{
-        height: 200px;
+        height: 150px;
     }
     .navigat{
         display: none;

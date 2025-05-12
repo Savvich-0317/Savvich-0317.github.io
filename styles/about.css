@@ -72,6 +72,14 @@ body{
     background-color: rgb(240, 203, 155);
     border-radius: 16px;
 }
+.sign{
+    justify-content: flex-end;
+    display: flex;
+
+}
+.sign img{
+    height: 125px;
+}
 @media(max-width:1000px){
     .forflex img{
         height: 200px;

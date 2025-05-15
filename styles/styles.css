@@ -164,6 +164,13 @@ body{
     background-color: #5A4C7F;
 }
 
+.About{
+    background-color: rgb(209, 253, 143);
+    border-radius: 16px;
+    width: px;
+    padding: 15px;
+}
+
 .fumo-boxes-vpa{
     background-color: #A1A9E1;
     border-radius: 16px;
@@ -191,6 +198,9 @@ body{
     border-radius: 16px;
     padding: 8px;
     color: #ffffff; 
+}
+.aforflex{
+    display: flex;
 }
 .forfooter{
     display: flex;

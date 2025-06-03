@@ -1,90 +1,107 @@
-html{
+html {
     scroll-behavior: smooth;
 }
-*{
-    font-family:Roboto;
+
+* {
+    font-family: Roboto;
 }
-.bad{
+
+.bad {
     color: red;
 }
-.navigat{
+
+.navigat {
     display: flex;
-    margin:auto;
-    gap: 30px;
-}
-.navigatf{
-    display: flex;
-    margin:auto;
+    margin: auto;
     gap: 30px;
 }
 
-body{
+.navigatf {
+    display: flex;
+    margin: auto;
+    gap: 30px;
+}
+
+body {
     background-color: rgb(255, 255, 255);
 }
-.Savvich-title img{
+
+.Savvich-title img {
     width: 125px;
     height: 95px;
 }
-.Savvich-title{
-    
+
+.Savvich-title {
+
     display: flex;
     gap: 17px;
 }
-.forflex{
+
+.forflex {
     display: flex;
     gap: 75px;
     flex-wrap: wrap;
 
-    
-    
+
+
 }
-.forflex article{
+
+.forflex article {
     border-radius: 16px;
     padding: 8px;
-    color: #ffffff; 
+    color: #ffffff;
 }
-.forfooter{
+
+.forfooter {
     display: flex;
     gap: 20px;
 }
 
-.forfooter img{
+.forfooter img {
     height: 60px;
     width: auto;
 }
-.ascii{
+
+.ascii {
     display: block;
 }
 
-@media(max-width:1000px){
-    .forflex img{
+@media(max-width:1000px) {
+    .forflex img {
         height: 200px;
     }
-    .ascii{
+
+    .ascii {
         display: none;
     }
 }
-.for_padding{
+
+.for_padding {
     padding-left: 35px;
     padding-top: 5px;
 }
-.About{
+
+.About {
     background-color: rgb(240, 203, 155);
     border-radius: 16px;
 }
-.sign{
+
+.sign {
     justify-content: flex-end;
     display: flex;
 
 }
-.sign img{
+
+.sign img {
     height: 125px;
 }
-@media(max-width:1000px){
-    .forflex img{
+
+@media(max-width:1000px) {
+    .forflex img {
         height: 200px;
     }
-    .navigat{
+
+    .navigat {
         display: none;
     }
 }

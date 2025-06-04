@@ -240,6 +240,28 @@ body {
     background-color: #CB70AB;
 }
 
+.boxorg-grs {
+    background-color: #d85157;
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.fumo-box-haruna {
+    background-color: #EB7778;
+}
+
+.fumo-box-akari {
+    background-color: #4695E2;
+}
+
+.fumo-box-junko {
+    background-color: #E56974;
+}
+
+.fumo-box-izumi {
+    background-color: #F5A544;
+}
+
 .forflex img {
     transition: 0.5s;
 }
